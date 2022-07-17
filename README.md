@@ -2,6 +2,8 @@
 
 <img width="1433" alt="Plae1" src="https://user-images.githubusercontent.com/103001500/179401141-de42a826-f4c0-417d-9427-b760dca4919b.png">
 
+<img width="1428" alt="Plae2" src="https://user-images.githubusercontent.com/103001500/179401285-55215d76-11b1-4e5a-8c1c-c6e80b68bd86.png">
+
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
 ## Deploy your own
